@@ -1,0 +1,4 @@
+interface:
+  display_name: "SolidWorks 机械设计与装配"
+  short_description: "先确认机械方案与尺寸，再建独立零件、真实配合并交付实测自动化脚本"
+  default_prompt: "使用 $solidworks-design-assemblies，根据我的机械机构想法先对话并汇总零件、尺寸依据和装配方案，待我确认后再进行 SolidWorks 建模装配与脚本交付。"
